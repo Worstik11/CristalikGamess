@@ -5,10 +5,10 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
     {
-            host: "37.114.42.191",
-            password: "danteisnttaken",
-            port: 9906,
-            secure: false
+            host: "lava-v4.ajieblogs.eu.org",
+            password: "https://dsc.gg/ajidevserver",
+            port: 443,
+            secure: true
         },
     ];
 
